@@ -19,3 +19,4 @@ Start with small steps:
   - This is easy if we knew what class was currently on the switch
   - Javascript "IF" will give us an easy way, but there's a way to do this by attaching the events to the global scope
 # week4
+# week4assignment-
